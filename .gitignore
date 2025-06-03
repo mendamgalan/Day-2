@@ -1,0 +1,46 @@
+*.class
+*.jar
+*.war
+*.ear
+
+/target/
+/bin/
+/build/
+
+*.log
+
+*.class
+*.exe
+*.dll
+*.so
+*.out
+
+*.zip
+*.tar.gz
+*.rar
+
+.vscode/
+
+*.code-workspace
+
+.DS_Store       # macOS
+Thumbs.db       # Windows
+ehthumbs.db     # Windows
+desktop.ini     # Windows
+
+.env
+*.env
+*.key
+*.pem
+
+*.iml
+.idea/
+
+.gradle/
+.classpath
+.project
+.settings/
+
+/test-output/
+*.html
+*.xml
